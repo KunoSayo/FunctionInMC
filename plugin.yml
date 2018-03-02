@@ -1,0 +1,7 @@
+name: FunctionInMC
+main: Main
+version: 1.0
+author: [yinyangshi]
+commands:
+  f:
+    description: f
